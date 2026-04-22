@@ -2,4 +2,4 @@
 ## - Self-introduction
 - name : JunYu Yang
 - nationality : China
-- interest : animation , vscode , minecraft ， unity
+- interest : animation , vscode , minecraft ，unity
